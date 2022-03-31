@@ -7,7 +7,7 @@ class App extends React.Component {
   render() {
     return (
         <React.Fragment>
-          <Header/>
+            <Header/>
             <main className="flex-shrink-0">
                 <Hero/>
             </main>
