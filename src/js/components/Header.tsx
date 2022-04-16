@@ -26,7 +26,7 @@ class Header extends React.Component {
 
             <div className="text-end">
               <button type="button" className="btn btn-warning">
-                Contact me
+                <i className="bi bi-send-fill"/> Contact me
               </button>
             </div>
           </div>
